@@ -12,3 +12,4 @@ On merge les modifications sur le projet global et donc rendre les modifications
 | Pas tout  | principe  |
 
 ##this is fork 1
+##after cearting new branch
