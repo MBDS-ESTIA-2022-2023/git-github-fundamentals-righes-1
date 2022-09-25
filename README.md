@@ -1,3 +1,4 @@
+##*****************************************
 ##Ce qui est compris
 
 Un fork avait pour principe de copier un projet dans mon espace personnel. 
@@ -11,5 +12,4 @@ On merge les modifications sur le projet global et donc rendre les modifications
 |-----------|-----------|
 | Pas tout  | principe  |
 
-
-###bla bla bla 
+##***************************************************
